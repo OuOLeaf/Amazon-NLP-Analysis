@@ -5,7 +5,7 @@ This project aims to enhance sales performance by intelligently displaying popul
 
 <div align="center">
   
-<img src="buy_now.gif" width="800">
+<img src="buy_now.gif" width="600">
 
 </div>
 
