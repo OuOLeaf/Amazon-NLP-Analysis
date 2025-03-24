@@ -20,7 +20,7 @@ In e-commerce, reviews and rankings function as social proof. When a product rec
 
 </div>
 
-## The Problems I Attempt to Solve
+## The Problems I Solve
 How do we increase user engagement and boost click-through rates by promoting relevant and popular products.
 
 Before answering it, it could be divided into smaller questions:
