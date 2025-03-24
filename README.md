@@ -10,7 +10,7 @@ This project aims to enhance sales performance by intelligently determine popula
 </div>
 
 ## Why Are Reviews and Rankings Important?
-In e-commerce, reviews and rankings function as social proof. When a product receives a high number of positive reviews and favorable ratings, it means customers like it. Showcasing popular items prominently can improve user trust and increase the likelihood of interaction and sales.
+In e-commerce, reviews and rankings function as social proof. When a product receives a high number of positive reviews and favorable ratings, it means customers like it. Showcasing popular items on the first page can improve user trust and staying time, potentially increasing sales.
 
 <br>
 
