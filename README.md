@@ -27,7 +27,13 @@ Before answering it, it could be divided into smaller questions:
 - Calculate a composite popularity score by combining sentiment and rating  
 - Determine rank by incorporating review velocity  
 
-*Graph*
+<br>
+
+<div align="center">
+  
+<img src="graph1.png" width="600">
+
+</div>
 
 ## Identify Popular Topics and Keywords  
 Relevant – Keywords, Topic  
@@ -35,7 +41,13 @@ Relevant – Keywords, Topic
 - Summarize common topics from these items using NLP to identify what users commonly like  
 - Extract frequent keywords from reviews to align with user search behavior  
 
-*Graph*
+<br>
+
+<div align="center">
+  
+<img src="graph2.png" width="600">
+
+</div>
 
 ## User E-commerce Journey
 - Enter the site and interact with a search bar enhanced by popular keywords and themes  
