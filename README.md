@@ -1,5 +1,5 @@
 ## Project Overview
-This project aims to enhance sales performance by intelligently determine popular items, utilizing Natural Language Processing (NLP) techniques and data analysis. By analyzing customer reviews, item rankings, and user search behavior, the system promotes products that demonstrate strong social proof—thereby increasing user engagement and click rates.
+This project aims to enhance sales performance by intelligently determine popular items, utilizing Natural Language Processing (NLP) techniques and data analysis. By analyzing customer reviews, item rankings, and user search behavior, the system promotes products that demonstrate strong social proof—thereby increasing user engagement and click rates. This analysis comes from Amazon reviews data from 2010-2018.(https://jmcauley.ucsd.edu/data/amazon_v2/index.html)
 
 <br>
 
