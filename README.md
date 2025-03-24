@@ -12,6 +12,13 @@ This project aims to enhance sales performance by intelligently determine popula
 ## Why Are Reviews and Rankings Important?
 In e-commerce, reviews and rankings function as social proof. When a product receives a high number of positive reviews and favorable ratings, it means customers like it. Showcasing popular items prominently can improve user trust and increase the likelihood of interaction and sales.
 
+<br>
+
+<div align="center">
+  
+<img src="image/amazon_reviews_NLP_analysis.png" width="600">
+
+</div>
 
 ## The Problems I Attempt to Solve
 How do we increase user engagement and boost click-through rates by promoting relevant and popular products.
@@ -53,10 +60,4 @@ Before answering it, it could be divided into smaller questions:
 - View top-ranking items on the first results page, prioritized by reviews and NLP sentiment-driven scores  
 - Engage with relevant products throughout the search process, increasing time on site, click-through rate, and ultimately, sales performance
 
-<br>
 
-<div align="center">
-  
-<img src="image/amazon_reviews_NLP_analysis.png" width="600">
-
-</div>
