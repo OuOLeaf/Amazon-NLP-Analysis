@@ -5,7 +5,7 @@ This project aims to enhance sales performance by intelligently determine popula
 
 <div align="center">
   
-<img src="buy_now.gif" width="600">
+<img src="image/buy_now.gif" width="600">
 
 </div>
 
@@ -31,7 +31,7 @@ Before answering it, it could be divided into smaller questions:
 
 <div align="center">
   
-<img src="graph1.png" width="600">
+<img src="image/graph1.png" width="600">
 
 </div>
 
@@ -44,7 +44,7 @@ Before answering it, it could be divided into smaller questions:
 
 <div align="center">
   
-<img src="graph2.png" width="600">
+<img src="image/graph2.png" width="600">
 
 </div>
 
