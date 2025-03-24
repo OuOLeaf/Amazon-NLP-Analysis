@@ -5,7 +5,7 @@ This project aims to enhance sales performance by intelligently determine popula
 
 <div align="center">
   
-<img src="buy_now.gif" width="600">
+<img src="image/buy_now.gif" width="600">
 
 </div>
 
