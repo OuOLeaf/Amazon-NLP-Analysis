@@ -35,8 +35,7 @@ Before answering it, it could be divided into smaller questions:
 
 </div>
 
-## Identify Popular Topics and Keywords  
-Relevant – Keywords, Topic  
+## Identify Popular Topics and Keywords
 - Filter top 30% popular items based on a composite score combining sentiment and rankings  
 - Summarize top performing topics from these items using NLP to identify what users commonly like  
 - Extract frequent keywords from reviews to align with user search behavior  
@@ -50,6 +49,6 @@ Relevant – Keywords, Topic
 </div>
 
 ## User E-commerce Journey
-- Enter the site and interact with a search bar enhanced by popular keywords and themes  
+- Enter the site and interact with a search bar enhanced by popular keywords and themes 
 - View top-ranking items on the first results page, prioritized by reviews and NLP sentiment-driven scores  
 - Engage with relevant products throughout the search process, increasing time on site, click-through rate, and ultimately, sales performance  
