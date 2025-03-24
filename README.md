@@ -51,4 +51,12 @@ Before answering it, it could be divided into smaller questions:
 ## User E-commerce Journey
 - Enter the site and interact with a search bar enhanced by popular keywords and themes 
 - View top-ranking items on the first results page, prioritized by reviews and NLP sentiment-driven scores  
-- Engage with relevant products throughout the search process, increasing time on site, click-through rate, and ultimately, sales performance  
+- Engage with relevant products throughout the search process, increasing time on site, click-through rate, and ultimately, sales performance
+
+<br>
+
+<div align="center">
+  
+<img src="image/amazon_reviews_NLP_analysis.png" width="600">
+
+</div>
