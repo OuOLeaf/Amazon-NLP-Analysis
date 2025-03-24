@@ -1,8 +1,17 @@
 ## Project Overview
 This project aims to enhance sales performance by intelligently displaying popular items, utilizing Natural Language Processing (NLP) techniques and data analysis. By analyzing customer reviews, item rankings, and user search behavior, the system promotes products that demonstrate strong social proof—thereby increasing user engagement and click rates.
 
+<br>
+
+<div align="center">
+  
+<img src="buy_now.gif" width="800">
+
+</div>
+
 ## Why Are Reviews and Rankings Important?
 In e-commerce, reviews and rankings function as social proof. When a product receives a high number of positive reviews and favorable ratings, it means customers like it. Showcasing popular items prominently can improve user trust and increase the likelihood of interaction and sales.
+
 
 ## The Problems I Attempt to Solve
 How do we increase user engagement and boost click-through rates by promoting relevant and popular products.
